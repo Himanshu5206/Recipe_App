@@ -21,7 +21,14 @@ Responsive Design: Accessible on both desktop and mobile, providing a smooth, en
 
 Video demo of the projects
 
-
-
 https://github.com/user-attachments/assets/ecc27d26-39c3-47b5-9865-3376010a2093
 
+## Technology used
+
+React.js
+
+Node.js
+
+Mongo db
+
+Express.js

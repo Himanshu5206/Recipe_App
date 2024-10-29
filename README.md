@@ -11,4 +11,5 @@ Favorites Collection: Save and categorize favorite recipes to build a personal v
 Responsive Design: Accessible on both desktop and mobile, providing a smooth, engaging user experience.
 
 
-![Uploading Screenshot 2024-10-29 081355.png…]()
+![Screenshot 2024-10-29 081355](https://github.com/user-attachments/assets/a5620898-f889-4238-ab67-11accc36f47a)
+
